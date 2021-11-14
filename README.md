@@ -1,0 +1,2 @@
+# Stack-summation
+Technical Task
